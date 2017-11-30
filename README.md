@@ -20,7 +20,7 @@ Properties
 How use it
 -------------
 
-##xaml ###
+##xaml ##
 
 > Import : `xmlns:control="clr-namespace:RoundedFrameUWP;assembly=RoundedFrameUWP"`
 > Use it : 
