@@ -38,4 +38,4 @@ How use it
         </control:RoundedFrame>
     </ContentPage.Content>
 
-![Sample](https://imgur.com/a/43It4)
+![Sample](https://github.com/migueBarrera/images/blob/master/CapturaUWP.PNG)
