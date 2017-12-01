@@ -4,7 +4,13 @@ Xamari.Forms.Plugin.RoundedFrameUWP!
 
 Frame for UWP with cornerRadius.
 
+Install on PCL and  UWP projects.
+
 For Android and IOS is not necessary;
+
+## NuGet
+* Available on NuGet: [Xamarin.Plugin.RoundedFrameUWP](https://www.nuget.org/packages/Xamarin.Forms.Plugin.RoundedFrame/)
+
 
 ----------
 
@@ -23,6 +29,7 @@ How use it
 ##xaml ##
 
 > Import : `xmlns:control="clr-namespace:RoundedFrameUWP;assembly=RoundedFrameUWP"`
+
 > Use it : 
 
     <ContentPage.Content>
