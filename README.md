@@ -19,7 +19,7 @@ Properties
 -------------
 
 
-> - RoundedStyle : define style for rounded corners. {Full,Top,Down} 
+> - RoundedStyle : define style for rounded corners. {Full,Top,Down} , Only implemented on UWP.
 > - BackgroundColor : Color for RoundedFrame.
 > - CornerRadius = default is 15
 
